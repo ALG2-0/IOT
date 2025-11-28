@@ -1,4 +1,4 @@
-# AgroTrack DZ - Smart Irrigation System
+## AGRO FUND DZ :
 
 ## Project Overview
 
@@ -13,16 +13,14 @@ This IoT-based smart irrigation system is designed for the AgroFund DZ platform,
 - 3x DHT22 sensors for monitoring temperature and humidity in different farm zones
 - 3x Water pumps (one for each sensor zone)
 - 3x Indicator LEDs to show pump status
-- 3x Potentiometers to simulate soil moisture levels in each zone
-- 1x Push button for manual override control
-
+- 1x serial monitor
+- 
 ### How It Works:
 1. Each DHT22 sensor monitors temperature and humidity in its designated farm zone
 2. When temperature rises above 30°C and humidity falls below 40% in a zone, the corresponding pump activates
 3. The system continuously monitors all three zones independently
 4. Indicator LEDs show which pumps are active
-5. A push button allows for manual irrigation override
-6. Sensor data is transmitted to a remote dashboard for monitoring
+5. Sensor data is transmitted to a remote dashboard for monitoring
 
 ## Benefits for Investors
 
